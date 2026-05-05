@@ -166,5 +166,89 @@
 		"path" 		: "https://github.com/tdk-invn-oss/tdk-sensorstage/raw/refs/heads/main/pkg/SmartMotion/invn.firmware.emd-mcu.dk53621_sensorstageapp-atmel.arm-gnu-toolchain-cm4-fpu-2.1.1-rc1.tar.gz",
 		"category"	: "SmartMotion",
 		"release date" : "2026-05-04"
+	},
+	{
+		"part" 		: "ICM56622",
+		"version" 	: "1.0.5-rc1",
+		"path" 		: "https://github.com/tdk-invn-oss/tdk-sensorstage/raw/refs/heads/main/pkg/SmartMotion/invn.firmware.emd-mcu.icm56622_sensorstageapp-atmel.arm-gnu-toolchain-cm4-fpu-1.0.5-rc1.tar.gz",
+		"category"	: "SmartMotion",
+		"release date" : "2026-05-05"
+	},
+	{
+		"part" 		: "ICM56686",
+		"version" 	: "1.0.5-rc1",
+		"path" 		: "https://github.com/tdk-invn-oss/tdk-sensorstage/raw/refs/heads/main/pkg/SmartMotion/invn.firmware.emd-mcu.icm56686_sensorstageapp-atmel.arm-gnu-toolchain-cm4-fpu-1.0.5-rc1.tar.gz",
+		"category"	: "SmartMotion",
+		"release date" : "2026-05-05"
+	},
+	{
+		"part" 		: "ICM51608",
+		"version" 	: "1.0.4-rc1",
+		"path" 		: "https://github.com/tdk-invn-oss/tdk-sensorstage/raw/refs/heads/main/pkg/SmartMotion/invn.firmware.emd-mcu.icm51608_sensorstageapp-atmel.arm-gnu-toolchain-cm4-fpu-1.0.4-rc1.tar.gz",
+		"category"	: "SmartMotion",
+		"release date" : "2026-05-05"
+	},
+	{
+		"part" 		: "T3400",
+		"version" 	: "1.0.4-rc1",
+		"path" 		: "https://github.com/tdk-invn-oss/tdk-sensorstage/raw/refs/heads/main/pkg/SmartMotion/invn.firmware.emd-mcu.t3400_sensorstageapp-atmel.arm-gnu-toolchain-cm4-fpu-1.0.4-rc1.tar.gz",
+		"category"	: "SmartMotion",
+		"release date" : "2026-05-05"
+	},
+	{
+		"part" 		: "T3470",
+		"version" 	: "1.0.4-rc1",
+		"path" 		: "https://github.com/tdk-invn-oss/tdk-sensorstage/raw/refs/heads/main/pkg/SmartMotion/invn.firmware.emd-mcu.t3470_sensorstageapp-atmel.arm-gnu-toolchain-cm4-fpu-1.0.4-rc1.tar.gz",
+		"category"	: "SmartMotion",
+		"release date" : "2026-05-05"
+	},
+	{
+		"part" 		: "T3488",
+		"version" 	: "1.0.4-rc1",
+		"path" 		: "https://github.com/tdk-invn-oss/tdk-sensorstage/raw/refs/heads/main/pkg/SmartMotion/invn.firmware.emd-mcu.t3488_sensorstageapp-atmel.arm-gnu-toolchain-cm4-fpu-1.0.4-rc1.tar.gz",
+		"category"	: "SmartMotion",
+		"release date" : "2026-05-05"
+	},
+	{
+		"part" 		: "ICM45606",
+		"version" 	: "2.0.0-rc1",
+		"path" 		: "https://github.com/tdk-invn-oss/tdk-sensorstage/raw/refs/heads/main/pkg/SmartMotion/invn.firmware.emd-mcu.icm45606_sensorstageapp-atmel.arm-gnu-toolchain-cm4-fpu-2.0.0-rc1.tar.gz",
+		"category"	: "SmartMotion",
+		"release date" : "2026-05-05"
+	},
+	{
+		"part" 		: "ICM45685",
+		"version" 	: "2.0.0-rc1",
+		"path" 		: "https://github.com/tdk-invn-oss/tdk-sensorstage/raw/refs/heads/main/pkg/SmartMotion/invn.firmware.emd-mcu.icm45685_sensorstageapp-atmel.arm-gnu-toolchain-cm4-fpu-2.0.0-rc1.tar.gz",
+		"category"	: "SmartMotion",
+		"release date" : "2026-05-05"
+	},
+	{
+		"part" 		: "ICM45687",
+		"version" 	: "2.0.0-rc1",
+		"path" 		: "https://github.com/tdk-invn-oss/tdk-sensorstage/raw/refs/heads/main/pkg/SmartMotion/invn.firmware.emd-mcu.icm45687_sensorstageapp-atmel.arm-gnu-toolchain-cm4-fpu-2.0.0-rc1.tar.gz",
+		"category"	: "SmartMotion",
+		"release date" : "2026-05-05"
+	},
+	{
+		"part" 		: "ICM45608",
+		"version" 	: "2.0.0-rc1",
+		"path" 		: "https://github.com/tdk-invn-oss/tdk-sensorstage/raw/refs/heads/main/pkg/SmartMotion/invn.firmware.emd-mcu.icm45608_sensorstageapp-atmel.arm-gnu-toolchain-cm4-fpu-2.0.0-rc1.tar.gz",
+		"category"	: "SmartMotion",
+		"release date" : "2026-05-05"
+	},
+	{
+		"part" 		: "ICM45634",
+		"version" 	: "2.0.0-rc1",
+		"path" 		: "https://github.com/tdk-invn-oss/tdk-sensorstage/raw/refs/heads/main/pkg/SmartMotion/invn.firmware.emd-mcu.icm45634_sensorstageapp-atmel.arm-gnu-toolchain-cm4-fpu-2.0.0-rc1.tar.gz",
+		"category"	: "SmartMotion",
+		"release date" : "2026-05-05"
+	},
+	{
+		"part" 		: "ICM45689",
+		"version" 	: "2.0.0-rc1",
+		"path" 		: "https://github.com/tdk-invn-oss/tdk-sensorstage/raw/refs/heads/main/pkg/SmartMotion/invn.firmware.emd-mcu.icm45689_sensorstageapp-atmel.arm-gnu-toolchain-cm4-fpu-2.0.0-rc1.tar.gz",
+		"category"	: "SmartMotion",
+		"release date" : "2026-05-05"
 	}
 ]
