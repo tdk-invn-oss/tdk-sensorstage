@@ -119,13 +119,6 @@
 		"release date" : "2026-04-23"
 	},
 	{
-		"part" 		: "T1000",
-		"version" 	: "3.3.0",
-		"path" 		: "https://github.com/tdk-invn-oss/tdk-sensorstage/raw/refs/heads/main/pkg/SmartMotion/invn.firmware.emd-mcu.t1000_sensorstageapp-atmel.arm-gnu-toolchain-cm4-fpu-3.3.0.tar.gz",
-		"category"	: "SmartMotion",
-		"release date" : "2026-04-23"
-	},
-	{
 		"part" 		: "ICM53607",
 		"version" 	: "2.1.1-rc1",
 		"path" 		: "https://github.com/tdk-invn-oss/tdk-sensorstage/raw/refs/heads/main/pkg/SmartMotion/invn.firmware.emd-mcu.icm53607_sensorstageapp-atmel.arm-gnu-toolchain-cm4-fpu-2.1.1-rc1.tar.gz",
@@ -178,13 +171,6 @@
 		"part" 		: "ICM56686",
 		"version" 	: "1.0.5-rc1",
 		"path" 		: "https://github.com/tdk-invn-oss/tdk-sensorstage/raw/refs/heads/main/pkg/SmartMotion/invn.firmware.emd-mcu.icm56686_sensorstageapp-atmel.arm-gnu-toolchain-cm4-fpu-1.0.5-rc1.tar.gz",
-		"category"	: "SmartMotion",
-		"release date" : "2026-05-05"
-	},
-	{
-		"part" 		: "ICM51608",
-		"version" 	: "1.0.4-rc1",
-		"path" 		: "https://github.com/tdk-invn-oss/tdk-sensorstage/raw/refs/heads/main/pkg/SmartMotion/invn.firmware.emd-mcu.icm51608_sensorstageapp-atmel.arm-gnu-toolchain-cm4-fpu-1.0.4-rc1.tar.gz",
 		"category"	: "SmartMotion",
 		"release date" : "2026-05-05"
 	},
