@@ -70,6 +70,13 @@
 		"release date" : "2026-04-23"
 	},
 	{
+		"part" 		: "ICM42607T",
+		"version" 	: "3.3.1-rc1",
+		"path" 		: "https://github.com/tdk-invn-oss/tdk-sensorstage/raw/refs/heads/main/pkg/SmartMotion/invn.firmware.emd-mcu.icm42607t_sensorstageapp-atmel.arm-gnu-toolchain-cm4-fpu-3.3.1-rc1.tar.gz",
+		"category"	: "SmartMotion",
+		"release date" : "2026-06-24"
+	},
+	{
 		"part" 		: "ICM42370P",
 		"version" 	: "3.3.0",
 		"path" 		: "https://github.com/tdk-invn-oss/tdk-sensorstage/raw/refs/heads/main/pkg/SmartMotion/invn.firmware.emd-mcu.icm42370p_sensorstageapp-atmel.arm-gnu-toolchain-cm4-fpu-3.3.0.tar.gz",
@@ -187,6 +194,13 @@
 		"path" 		: "https://github.com/tdk-invn-oss/tdk-sensorstage/raw/refs/heads/main/pkg/SmartMotion/invn.firmware.emd-mcu.icm45687_sensorstageapp-atmel.arm-gnu-toolchain-cm4-fpu-2.0.0.tar.gz",
 		"category"	: "SmartMotion",
 		"release date" : "2026-06-09"
+	},
+	{
+		"part" 		: "ICM45687V",
+		"version" 	: "2.0.1-rc3",
+		"path" 		: "https://github.com/tdk-invn-oss/tdk-sensorstage/raw/refs/heads/main/pkg/SmartMotion/invn.firmware.emd-mcu.icm45687v_sensorstageapp-atmel.arm-gnu-toolchain-cm4-fpu-2.0.1-rc3.tar.gz",
+		"category"	: "SmartMotion",
+		"release date" : "2026-06-24"
 	},
 	{
 		"part" 		: "ICM45608",
