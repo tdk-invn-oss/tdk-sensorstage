@@ -204,23 +204,23 @@
 	},
 	{
 		"part" 		: "ICM45608",
-		"version" 	: "2.0.0-rc1",
-		"path" 		: "https://github.com/tdk-invn-oss/tdk-sensorstage/raw/refs/heads/main/pkg/SmartMotion/invn.firmware.emd-mcu.icm45608_sensorstageapp-atmel.arm-gnu-toolchain-cm4-fpu-2.0.0-rc1.tar.gz",
+		"version" 	: "2.0.0",
+		"path" 		: "https://github.com/tdk-invn-oss/tdk-sensorstage/raw/refs/heads/main/pkg/SmartMotion/invn.firmware.emd-mcu.icm45608_sensorstageapp-atmel.arm-gnu-toolchain-cm4-fpu-2.0.0.tar.gz",
 		"category"	: "SmartMotion",
-		"release date" : "2026-05-05"
+		"release date" : "2026-06-26"
 	},
 	{
 		"part" 		: "ICM45634",
-		"version" 	: "2.0.0-rc1",
-		"path" 		: "https://github.com/tdk-invn-oss/tdk-sensorstage/raw/refs/heads/main/pkg/SmartMotion/invn.firmware.emd-mcu.icm45634_sensorstageapp-atmel.arm-gnu-toolchain-cm4-fpu-2.0.0-rc1.tar.gz",
+		"version" 	: "2.0.0",
+		"path" 		: "https://github.com/tdk-invn-oss/tdk-sensorstage/raw/refs/heads/main/pkg/SmartMotion/invn.firmware.emd-mcu.icm45634_sensorstageapp-atmel.arm-gnu-toolchain-cm4-fpu-2.0.0.tar.gz",
 		"category"	: "SmartMotion",
-		"release date" : "2026-05-05"
+		"release date" : "2026-06-26"
 	},
 	{
 		"part" 		: "ICM45689",
-		"version" 	: "2.0.0-rc1",
-		"path" 		: "https://github.com/tdk-invn-oss/tdk-sensorstage/raw/refs/heads/main/pkg/SmartMotion/invn.firmware.emd-mcu.icm45689_sensorstageapp-atmel.arm-gnu-toolchain-cm4-fpu-2.0.0-rc1.tar.gz",
+		"version" 	: "2.0.0",
+		"path" 		: "https://github.com/tdk-invn-oss/tdk-sensorstage/raw/refs/heads/main/pkg/SmartMotion/invn.firmware.emd-mcu.icm45689_sensorstageapp-atmel.arm-gnu-toolchain-cm4-fpu-2.0.0.tar.gz",
 		"category"	: "SmartMotion",
-		"release date" : "2026-05-05"
+		"release date" : "2026-06-26"
 	}
 ]
