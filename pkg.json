@@ -133,13 +133,6 @@
 		"release date" : "2026-07-24"
 	},
 	{
-		"part" 		: "ICM53622",
-		"version" 	: "3.0.0",
-		"path" 		: "https://github.com/tdk-invn-oss/tdk-sensorstage/raw/refs/heads/main/pkg/SmartMotion/invn.firmware.emd-mcu.icm53622_sensorstageapp-atmel.arm-gnu-toolchain-cm4-fpu-3.0.0.tar.gz",
-		"category"	: "SmartMotion",
-		"release date" : "2026-07-24"
-	},
-	{
 		"part" 		: "DK53611",
 		"version" 	: "3.0.0",
 		"path" 		: "https://github.com/tdk-invn-oss/tdk-sensorstage/raw/refs/heads/main/pkg/SmartMotion/invn.firmware.emd-mcu.dk53611_sensorstageapp-atmel.arm-gnu-toolchain-cm4-fpu-3.0.0.tar.gz",
